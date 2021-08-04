@@ -136,7 +136,7 @@ var cnItems = {
     'Generates skeletons!': '生成骷髅！',
     'Higher stages yield higher chance to get souls': '更高的阶段有更高的机会获得灵魂',
     'When 51 souls have been infused - color won\'t change anymore but souls will still be consumed to increase attack and defense stats by 1% for each soul': '注入51个灵魂时-颜色不再变化，但仍会消耗灵魂，每个灵魂增加1％的攻击和防御属性',
-    '': '',
+    'This will erase all souls from this unit but will keep the attack and defense bonus': '这将清除该单位的所有灵魂，但会保留攻击和防御加值',
     '': '',
     '': '',
     '': '',
