@@ -171,7 +171,7 @@ var cnItems = {
     'Thunderbird': '雷鸟',
     'Wild Willow': '野柳',
     '🥳 Congratulations! 🥳': '🥳 恭喜你! 🥳',
-    '': '',
+    'Play with sound and music?': '开启声音和音乐？',
     '': '',
     '': '',
     '': '',
